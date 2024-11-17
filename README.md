@@ -8,4 +8,4 @@ https://rape.konnokai.me
 
 修改 by 手機哭哭
 
-https://phonecry.github.io/torako/
+https://phonecry.github.io/torako_Clicker_Game/
